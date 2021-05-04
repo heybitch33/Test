@@ -18,6 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("branch1")
         print("branch2")
         
+        print("xyi")
+        
         return true
     }
     
