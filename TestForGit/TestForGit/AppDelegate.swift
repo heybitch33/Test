@@ -15,17 +15,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         
-<<<<<<< HEAD
         print("branch1")
-=======
         print("branch2")
->>>>>>> Branch2
         
         return true
     }
-
-    // MARK: UISceneSession Lifecycle
-
-
+    
 }
 
